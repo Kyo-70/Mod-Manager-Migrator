@@ -1,3 +1,7 @@
+# v3.0.2 (Hotfix)
+
+- Fix loadorder.txt and plugins.txt not being migrated
+
 # v3.0.1
 
 - Fix separators losing their loadorder position when migrating from MO2 -> MO2
