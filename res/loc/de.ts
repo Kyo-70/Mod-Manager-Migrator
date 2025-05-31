@@ -387,60 +387,60 @@ Fortfahren auf eigene Gefahr!</translation>
 <context>
     <name>ModOrganizer</name>
     <message>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="138"/>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="188"/>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="217"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="143"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="193"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="222"/>
         <source>Loading mods from {0} &gt; {1}...</source>
         <translation>Mods von {0} &gt; {1} werden geladen...</translation>
     </message>
     <message>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="280"/>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="386"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="285"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="399"/>
         <source>Processing mod conflicts...</source>
         <translation>Modkonflikte werden verarbeitet...</translation>
     </message>
     <message>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="149"/>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="432"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="154"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="445"/>
         <source>Loading tools from {0} &gt; {1}...</source>
         <translation>Tools von {0} &gt; {1} werden geladen...</translation>
     </message>
     <message>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="401"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="414"/>
         <source>Processing single file conflicts...</source>
         <translation>Einzelkonflikte werden verarbeitet...</translation>
     </message>
     <message>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="611"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="624"/>
         <source>Downloading and installing ModOrganizer...</source>
         <translation>ModOrganizer wird heruntergeladen und installiert...</translation>
     </message>
     <message>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="631"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="644"/>
         <source>Downloading ModOrganizer...</source>
         <translation>ModOrganizer wird heruntergeladen...</translation>
     </message>
     <message>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="653"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="666"/>
         <source>Extracting archive...</source>
         <translation>Archiv wird entpackt...</translation>
     </message>
     <message>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="1035"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="1058"/>
         <source>The usage of root builder was enabled.
 In order to correctly deploy the root files, you have to download and extract the root builder plugin from Nexus Mods to the &quot;plugins&quot; folder of your MO2 installation if not already installed.</source>
         <translation>Die Nutzung von Root Builder wurde aktiviert.
 Damit die Root-Dateien korrekt deployed werden, muss das Root Builder Plugin von Nexus Mods heruntergeladen und in den &quot;plugins&quot;-Ordner deiner MO2 Installation entpackt werden, wenn nicht bereits installiert.</translation>
     </message>
     <message>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="1045"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="1068"/>
         <source>The usage of root builder was enabled.
 In order to correctly deploy the root files, you have to download and extract the root builder plugin from Nexus Mods to the &quot;plugins&quot; folder of the new MO2 installation.</source>
         <translation>Die Nutzung von Root Builder wurde aktiviert.
 Damit die Root-Dateien korrekt deployed werden, muss das Root Builder Plugin von Nexus Mods heruntergeladen und in den &quot;plugins&quot;-Ordner der neuen MO2 Installation entpackt werden.</translation>
     </message>
     <message>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="1053"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="1076"/>
         <source>At least one global instance was detected.
 Global instances cause issues with portable instances and it is recommended to delete (or rename) the following folder:
 {0}</source>
@@ -831,7 +831,7 @@ Globale Instanzen verursachen Probleme mit portablen Instanzen und es wird empfo
         <translation>Tools werden von Vortex geladen...</translation>
     </message>
     <message>
-        <location filename="src/core/mod_manager/vortex/vortex.py" line="846"/>
+        <location filename="src/core/mod_manager/vortex/vortex.py" line="856"/>
         <source>Vortex is currently deployed to the game folder. It is strongly recommended to purge the game directory before using the migrated instance.</source>
         <translation>Vortex ist zurzeit in das Spielverzeichnis deployed. Es wird empfohlen, das Spielverzeichnis vor der Nutzung der migrierten Instanz zu säubern.</translation>
     </message>
