@@ -40,6 +40,7 @@
 
         <!-- Localisation Files -->
         <file>loc/de.qm</file>
+        <file>res/loc/pt_BR.qm</file>
 
         <!-- Supported Games -->
         <file>games.json</file>
