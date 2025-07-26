@@ -28,12 +28,12 @@
 <context>
     <name>App</name>
     <message>
-        <location filename="src/app.py" line="179"/>
+        <location filename="src/app.py" line="183"/>
         <source>Path Limit Enabled</source>
         <translation>Pfadlängenbegrenzung ist aktiviert</translation>
     </message>
     <message>
-        <location filename="src/app.py" line="185"/>
+        <location filename="src/app.py" line="189"/>
         <source>The NTFS path length limit is enabled and paths longer than 255 characters will cause issues. Would you like to disable it (admin rights may be required)? A reboot is required for this to take effect.</source>
         <translation>Die NTFS Pfadlängenbegrenzung ist aktiviert und Pfade mit mehr als 255 Zeichen werden Fehler verursachen. Soll die Begrenzung deaktiviert werden (Administratorrechte könnten erforderlich sein)? Ein anschließender Neustart des Computers ist notwendig, damit die Begrenzung vollständig deaktiviert ist.</translation>
     </message>
@@ -387,20 +387,20 @@ Fortfahren auf eigene Gefahr!</translation>
 <context>
     <name>ModOrganizer</name>
     <message>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="143"/>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="193"/>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="222"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="144"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="194"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="223"/>
         <source>Loading mods from {0} &gt; {1}...</source>
         <translation>Mods von {0} &gt; {1} werden geladen...</translation>
     </message>
     <message>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="285"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="286"/>
         <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="399"/>
         <source>Processing mod conflicts...</source>
         <translation>Modkonflikte werden verarbeitet...</translation>
     </message>
     <message>
-        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="154"/>
+        <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="155"/>
         <location filename="src/core/mod_manager/modorganizer/modorganizer.py" line="445"/>
         <source>Loading tools from {0} &gt; {1}...</source>
         <translation>Tools von {0} &gt; {1} werden geladen...</translation>

@@ -28,12 +28,12 @@
 <context>
     <name>App</name>
     <message>
-        <location filename="src/app.py" line="179"/>
+        <location filename="src/app.py" line="183"/>
         <source>Path Limit Enabled</source>
         <translation>Limite de Caminho Ativado</translation>
     </message>
     <message>
-        <location filename="src/app.py" line="185"/>
+        <location filename="src/app.py" line="189"/>
         <source>The NTFS path length limit is enabled and paths longer than 255 characters will cause issues. Would you like to disable it (admin rights may be required)? A reboot is required for this to take effect.</source>
         <translation>O limite de comprimento de caminho do NTFS está ativado e caminhos com mais de 255 caracteres causarão problemas. Deseja desativá-lo? (pode ser necessário acesso de administrador). É necessário reiniciar o sistema para que a mudança tenha efeito.</translation>
     </message>
