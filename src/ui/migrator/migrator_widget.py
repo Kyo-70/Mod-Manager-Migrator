@@ -265,7 +265,7 @@ class MigratorWidget(SmoothScrollArea):
             )
         except GameNotFoundError:
             QMessageBox.warning(
-                QApplication.activeModalWidget(),  # type: ignore
+                QApplication.activeModalWidget(),
                 self.tr("Could not find game directory!"),
                 self.tr("Unable to find game directory. Please select it manually."),
                 buttons=QMessageBox.StandardButton.Ok,
